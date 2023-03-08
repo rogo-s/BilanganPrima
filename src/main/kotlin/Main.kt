@@ -30,3 +30,4 @@ fun main() {
         println("$angka bukan bilangan prima")
     }
 }
+//Penjelasan Code Program Sedang saya kerjakan
